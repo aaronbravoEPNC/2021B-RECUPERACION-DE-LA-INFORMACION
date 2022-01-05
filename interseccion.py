@@ -66,8 +66,6 @@ def opNot(t1, index):
     
     return res
 
-            
-            
 
 indice = {"casa": [3, (1,2,[2,16]), (2,5,[1,6,7,20,35]), (4,5,[90,110,209])],
           "la": [2, (1,2,[10,15]), (4,3,[89,109,201])],
@@ -82,12 +80,3 @@ print("OR\n", opOr("casa", "perro", indice))
 
 print("NOT\n", opNot("roja", indice))
 
-
-
-
-            
-    
-    
-    
-    
-    
